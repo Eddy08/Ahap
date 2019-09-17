@@ -1,0 +1,11 @@
+.button:hover {
+	-fx-color: #abf2e0;
+}
+.root {
+    -fx-font-size: 14px;
+    -fx-font-family: sans-serif;
+    -fx-background-color: #ffffff;
+}
+
+
+
